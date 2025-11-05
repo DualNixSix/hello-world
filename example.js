@@ -7,3 +7,4 @@ console.log (hello);
 
 
 // Merge conflict?
+//Test 2
