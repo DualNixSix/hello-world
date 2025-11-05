@@ -3,8 +3,10 @@ const hello = "Hello World!";
 
 console.log (hello);
 
-//Updated
 
+<<<<<<< HEAD
 
 // Merge conflict?
 //Test 2
+=======
+>>>>>>> experiment
