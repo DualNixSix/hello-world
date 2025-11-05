@@ -5,3 +5,6 @@ This is a Text File for GIT.
 This is the third commit.
 
 This is inside the experiment branch.
+
+// Merge conflict?
+//Test 2
